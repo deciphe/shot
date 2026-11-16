@@ -1,0 +1,10 @@
+{
+  "name": "gp-shot-for-vest",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "test": "node scripts/check.mjs",
+    "sync-meta": "node scripts/sync-meta.mjs"
+  }
+}
